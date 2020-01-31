@@ -1,0 +1,36 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		MasterMind :: Code Detective
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ First, complete your WD-708a form and submit it to the desk 
+ Sergeant:
+   a) Type in your name and press Enter.
+   b) Select a Case Level at which to play:
+	[0] Detective = easy: 4 columns x 10 rows
+	[1] Inspector = tricky: 5 columns x 12 rows
+	[2] Chief Inspector = hard: 6 columns x 14 rows
+   c) Select which game mode you wish to play:
+	[0] Numbers = easy
+	[1] Symbols = tricky
+	[2] Words = hard
+ You will then be given a new case to solve.
+
+ To follow a lead, type in a number, symbols, letters or word
+ and press ENTER to check it against the secret code. Think 
+ carefully, as you must discover the code before your time
+ runs out!
+
+ The clues will show you if you have guessed any part of the 
+ code correctly (o) or guessed correctly but placed it in the 
+ wrong position (?) or didn't guess any part of it at all.
+
+ The number of elements in the code for you to discover will
+ be shown by blank boxes at the top of the board display. If 
+ playing in Word mode, the code will always be a proper word.
+
+ To ask for a hint, type [H] for an extra clue (3 per game).
+ To resign from a case, type [Q] to set it as a "cold case".
+ To end this again, type [R] for display game rules.
+
+ Enjoy solving many interesting cases, Code Detective.
+
